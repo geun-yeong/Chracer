@@ -1,0 +1,14 @@
+# dump directory
+dumps/*.dmp
+!dumps/README.md
+
+# symbol directory
+symbols/*.pdb
+symbols/*.xml
+!symbols/README.md
+
+# virtual environment
+venv/
+
+# python cache
+*.pyc

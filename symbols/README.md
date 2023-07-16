@@ -1,0 +1,1 @@
+Parsed symbol files(XML) downloaded from the link should be stored here.

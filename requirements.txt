@@ -1,0 +1,4 @@
+colorama==0.4.6
+minidump==0.0.21
+tabulate==0.9.0
+tqdm==4.65.0

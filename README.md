@@ -12,8 +12,8 @@ The Google Driver link that shares minidumps corresponding to experiment cases
 ## Symbols
 
 Thie Mega links that share parsed symbol files of _chrome.dll_ and _content.dll_ of Chromium (version 113.0.5650.0, commit fed2d65)
-> https://mega.nz/file/QZ9iXLzB#hkSugGvES17dO0W3AgGW0JSt5nLbP0TNXCMtsnrHFco
-> https://mega.nz/file/YJ000Q6A#r6ERyaucP60P_fkjTdrlqKeVZ_1hutQEzEXUMyQE7yA
+> https://1drv.ms/u/s!AqpVJMlnbz-NgehgIjEQxAn2Pybdew?e=ef2lim
+> https://1drv.ms/u/s!AqpVJMlnbz-Ngehf5xHmyo8iy52eqw?e=Ek9RAn
 
 # Scenario
 
